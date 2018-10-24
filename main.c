@@ -5,7 +5,7 @@
 int main()
 {
     int x =1000;
-    printf("whoooooooooo %d\n",x);
+    printf("whooo %d\n",x);
     return 0;
 
 }
